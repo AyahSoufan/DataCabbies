@@ -1,4 +1,4 @@
-The Submission folder contains the final code.
+The Submission folder contains the final code for 
 Data Cabbies: An analysis of NYC Taxi and Uber Rides:
 
 DATA COLLECTION:
